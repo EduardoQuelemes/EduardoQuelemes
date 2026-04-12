@@ -8,9 +8,7 @@
   <h2>Currículo</h2>
   <ul>
     <li><strong>Formação:</strong> Engenharia de Software</li>
-    <li><strong>Habilidades Técnicas:</strong> HTML, CSS, JavaScript, Git, GitHub</li>
     <li><strong>Idiomas:</strong> Português (nativo), Inglês (avançado)</li>
-    <li><strong>Certificações:</strong> Cursos online em tecnologia</li>
   </ul>
   <a href="assets/docs/curriculo.pdf" target="_blank" class="btn">Baixar Currículo</a>
 </section>
