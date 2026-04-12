@@ -7,6 +7,7 @@
 <section id="curriculo">
   <h2>Currículo</h2>
   <ul>
+    <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <li><strong>Formação:</strong> Engenharia de Software</li>
     <li><strong>Idiomas:</strong> Português (nativo), Inglês (avançado)</li>
   </ul>
