@@ -3,6 +3,17 @@
   <p>Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento projetos web e fazer soluções inovadoras. Busco constantemente aprender novas linguagens de programação e aplica-las em projetos.</p>
 </section>
 
+export const themes = {
+  default: {
+    title_color: "2f80ed",
+    icon_color: "4c71f2",
+    text_color: "434d58",
+    bg_color: "fffefe",
+    border_color: "e4e2e2",
+  }
+
+
+
 <section id="curriculo">
   <h2>Currículo</h2>
   <ul>
