@@ -1,5 +1,8 @@
 <header>
   <h1>Bem vindo! Eu sou Eduardo Quelemes</h1>
+
+<a href="https://www.linkedin.com/in/eduardo-quelemes-563b2b3b3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
   <p>Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento projetos web e fazer soluções inovadoras. Busco constantemente aprender novas linguagens de programação e aplica-las em projetos.</p>
 </section>
 
