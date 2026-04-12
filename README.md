@@ -35,7 +35,7 @@
   <h2>Habilidades e Competências</h2>
   <ul>
     <li>Desenvolvimento Web</li>
-    <li>Versionamento com Git</li>
+    <li>Versionamento com GitHub</li>
     <li>Trabalho em equipe</li>
     <li>Resolução de problemas</li>
   </ul>
