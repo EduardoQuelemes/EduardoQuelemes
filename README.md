@@ -1,18 +1,8 @@
 <header>
-  <h1>Eduardo Quelemes | Estudante de Engenharia de Software</h1>
+  <h1>Bem vindo! Sou Eduardo Quelemes</h1>
   <p>Estudante de Engenharia de Software</p>
 </header>
 
-<nav>
-  <ul>
-    <li><a href="#perfil">Perfil</a></li>
-    <li><a href="#curriculo">Currículo</a></li>
-    <li><a href="#projetos">Projetos</a></li>
-    <li><a href="#habilidades">Habilidades</a></li>
-    <li><a href="#recomendacoes">Recomendações</a></li>
-    <li><a href="#contato">Contato</a></li>
-  </ul>
-</nav>
 
 <section id="perfil">
   <h2>Perfil Pessoal</h2>
