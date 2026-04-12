@@ -3,8 +3,6 @@
   <p>Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento projetos web e fazer soluções inovadoras. Busco constantemente aprender novas linguagens de programação e aplica-las em projetos.</p>
 </section>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?EduardoQuelemes&theme=dark&show_icons=true)
-
 <section id="curriculo">
   <h2>Currículo</h2>
   <ul>
