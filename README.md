@@ -85,7 +85,7 @@
 <section id="contato">
   <h2>Contato</h2>
   <p>Email: eduardo@quelemes.com.br</p>
-  <p>LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/eduardo-quelemes-563b2b3b3/)</p>
+  <p>LinkedIn: https://www.linkedin.com/in/eduardo-quelemes-563b2b3b3</p>
 </section>
 
 <footer>
