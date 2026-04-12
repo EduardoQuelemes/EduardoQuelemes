@@ -1,5 +1,5 @@
 <header>
-  <h1>Bem vindo! Sou Eduardo Quelemes</h1>
+  <h1>Bem vindo! Eu sou Eduardo Quelemes</h1>
   <p>Estudante de Engenharia de Software</p>
 </header>
 
