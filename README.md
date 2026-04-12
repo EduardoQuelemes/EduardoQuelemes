@@ -10,7 +10,6 @@
     <li><strong>Formação:</strong> Engenharia de Software</li>
     <li><strong>Idiomas:</strong> Português (nativo), Inglês (avançado)</li>
   </ul>
-  <a href="assets/docs/curriculo.pdf" target="_blank" class="btn">Baixar Currículo</a>
 </section>
 
 <section id="projetos">
