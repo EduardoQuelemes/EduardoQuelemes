@@ -1,12 +1,5 @@
 <header>
   <h1>Bem vindo! Eu sou Eduardo Quelemes</h1>
-  <p>Estudante de Engenharia de Software</p>
-</header>
-
-
-<section id="perfil">
-  <h2>Perfil Pessoal</h2>
-  <img src="assets/img/foto.jpg" alt="Foto" class="foto">
   <p>Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Busco constantemente aprender novas tecnologias e aplicar meus conhecimentos em projetos reais.</p>
 </section>
 
