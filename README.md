@@ -1,6 +1,6 @@
 <header>
   <h1>Bem vindo! Eu sou Eduardo Quelemes</h1>
-  <p>Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento projetos web e fazer soluções inovadoras. Busco constantemente aprender novas tecnologias e aplicar meus conhecimentos em projetos reais.</p>
+  <p>Sou estudante de Engenharia de Software apaixonado por tecnologia, desenvolvimento projetos web e fazer soluções inovadoras. Busco constantemente aprender novas linguagens de programação e aplica-las em novos projetos.</p>
 </section>
 
 <section id="curriculo">
