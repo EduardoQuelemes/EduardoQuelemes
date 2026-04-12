@@ -82,7 +82,7 @@
   <a href="assets/slides/habilidades.pdf" target="_blank" class="btn">Ver Apresentação</a>
 </section>
 
-<section id="contato">
+<section id="contatos">
   <h2>Contato</h2>
   <p>Email: eduardo@quelemes.com.br</p>
   <p>LinkedIn: https://www.linkedin.com/in/eduardo-quelemes-563b2b3b3</p>
