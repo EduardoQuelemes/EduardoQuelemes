@@ -1,17 +1,5 @@
-## Olá! Eu sou Eduardo Quelemes
-
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PortfolioHUB - Eduardo Quelemes</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
 <header>
-  <h1>Eduardo Quelemes</h1>
+  <h1>Olá! Eu sou Eduardo Quelemes</h1>
   <p>Estudante de Engenharia de Software</p>
 </header>
 
