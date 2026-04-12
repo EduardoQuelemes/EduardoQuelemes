@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**EduardoQuelemes/EduardoQuelemes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +9,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>PortfolioHUB</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Meu Portfólio</h1>
+</header>
+
+<section id="perfil">
+  <h2>Perfil</h2>
+</section>
+
+<section id="projetos">
+  <h2>Projetos</h2>
+</section>
+
+</body>
+</html>
