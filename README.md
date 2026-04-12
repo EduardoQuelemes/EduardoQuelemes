@@ -82,12 +82,6 @@
   <a href="assets/slides/habilidades.pdf" target="_blank" class="btn">Ver Apresentação</a>
 </section>
 
-<section id="recomendacoes">
-  <h2>Recomendações</h2>
-  <p>"Aluno dedicado e com grande capacidade técnica."</p>
-  <p>"Excelente trabalho em equipe e comunicação."</p>
-</section>
-
 <section id="contato">
   <h2>Contato</h2>
   <p>Email: seuemail@email.com</p>
