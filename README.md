@@ -18,7 +18,7 @@
   <h2>Projetos</h2>
 
   <div class="card">
-    <p>Nenhum projeto desenvolvido</p>
+    <p>Nenhum projeto desenvolvido no momento.</p>
 </section>
 
 <section id="habilidades">
