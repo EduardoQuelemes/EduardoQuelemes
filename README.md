@@ -18,17 +18,7 @@
   <h2>Projetos</h2>
 
   <div class="card">
-    <h3>Projeto 1 - Sistema Web</h3>
-    <p>Aplicação web desenvolvida utilizando HTML, CSS e JavaScript.</p>
-    <a href="#">Ver no GitHub</a>
-  </div>
-
-  <div class="card">
-    <h3>Projeto 2 - Banco de Dados</h3>
-    <p>Modelagem de banco de dados com diagramas ER.</p>
-    <a href="#">Ver no GitHub</a>
-  </div>
-
+    <p>Nenhum projeto desenvolido</p>
 </section>
 
 <section id="habilidades">
