@@ -40,7 +40,6 @@
     <li>Resolução de problemas</li>
   </ul>
 
-  <a href="assets/slides/habilidades.pdf" target="_blank" class="btn">Ver Apresentação</a>
 </section>
 
 <section id="contatos">
